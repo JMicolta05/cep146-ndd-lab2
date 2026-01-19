@@ -1,12 +1,12 @@
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP146NDD
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
+- Name: Jayden Micolta
+- Program: Computer Programming (CPP)
+- Year: 2026 Winter
+- Favorite Programming Language: C
  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
